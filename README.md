@@ -46,4 +46,4 @@ Project Files
 
 - Power BI dashboard (.pbix)
 - Dashboard screenshots
-- Screenshot 2026-11-21 132622.png
+Screenshot 2026-11-21 132622
